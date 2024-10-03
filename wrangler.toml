@@ -1,0 +1,6 @@
+name = "my-worker"  # The name of your Worker
+type = "javascript"
+
+account_id = "your-account-id"  # Your Cloudflare account ID
+workers_dev = true  # Deploy to the workers.dev subdomain
+compatibility_date = "2024-10-04"  # Update this to the current date
